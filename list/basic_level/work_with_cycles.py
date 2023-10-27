@@ -6,6 +6,6 @@ if __name__ == '__main__':
             if not conditions[i]: continue
             print(["Число делится на 3", "Число больше 10"][i == 1])
             is_cond = True
-        print('Число не соответсвует условиям') if not is_cond else ''
+        print('Число не соответствует условиям') if not is_cond else ''
     except ValueError:
         print('Значение должно быть целым числом!')

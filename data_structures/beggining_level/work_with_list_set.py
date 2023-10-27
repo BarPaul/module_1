@@ -1,3 +1,3 @@
 if __name__ == '__main__':
-    data1, data2 = {i for i in input("Введите первый список: ").split()}, {i for i in input("Введите второй список: ").split()}
-    print(f'Количество пересечений: {len(data1.intersection(data2))}')
+    data = (12, 7, 2009)
+    print(f'Кортеж: {data}\nПервое число: {data[0]}\nВторое число: {data[1]}\nТретье число: {data[2]}\nСумма: {sum(data)}')

@@ -13,6 +13,7 @@
 ## 8. [Практические задания для самостоятельного выполнения Словари и Функции](https://github.com/BarPaul/synergy-module1/blob/main/dicts_and_functions/Description.md)
 ## 9. [Практические задания для самостоятельного выполнения Проект по автоматизации выполнении задач на собственном ПК](https://github.com/BarPaul/synergy-module1/tree/main/automation_project/Description.md)
 ## 10. [Практические задания для самостоятельного выполнения Обзорная лекция](https://github.com/BarPaul/synergy-module1/tree/main/overview_lecture/Description.md)
+## Финальный босс модуля [Итоговый проект](https://github.com/BarPaul/synergy-module1/tree/main/clicker/Description.md)
 Автор решений: **Баранас Павел Андреевич** (группа 6) <br>
 Автор задач: **НОЧ ВУЗ МФПУ "Синергия"** <br>
 ©️ 2023 год

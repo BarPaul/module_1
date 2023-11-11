@@ -16,7 +16,7 @@ class Frame(tk.Frame):
         self.setupUI()
 
     def setupUI(self):
-        self.definition_text = tk.Label(self, font="Times 14", width=50, height=6, bg="white")
+        self.definition_text = tk.Label(self, font="Times 14", width=50, height=10, bg="white")
         self.button_show = tk.Button(self, text="Показать определение", command=self.show_random_defition, width=50, height=3, font="Times 16")
         for element in [self.definition_text, self.button_show]:
             element.pack()

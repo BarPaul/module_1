@@ -23,12 +23,12 @@
   - #### Задание №1
     | Ввод  | Вывод |
     |:------------------------:|:---------------:|
-    | Hello, World <br> Нажатие кнопки "Вывести" | ![begin-gif](./resources/automation_begin.gif) |
+    | Hello, World <br> Нажатие кнопки "Вывести" | ![begin-gif](../resources/automation_begin.gif) |
 - ### Базовый уровень
   - #### Задание №1
     | Ввод  | Вывод |
     |:------------------------:|:---------------:|
-    | Hello, World <br> Нажатие кнопки "Вывести" <br> Нажатие кнопки "Очистить" | ![basic-gif](./resources/automation_basic.gif) |
+    | Hello, World <br> Нажатие кнопки "Вывести" <br> Нажатие кнопки "Очистить" | ![basic-gif](../resources/automation_basic.gif) |
 
 ## Алгоритмы решения
 - ### Начальный уровень

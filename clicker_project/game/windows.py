@@ -24,7 +24,7 @@ class Clicker(tk.Frame):
             self.error_info = tk.Label(self, text=f'Неверная директория, либо отсутсвует файл rub.png!\nЕсли файл не отсутствует, \nто запустите проект из директории:\n./clicker_project/game\nВы запускаете проект из директории:\n./{'/'.join(getcwd().split('\\')[-3:])}', font="Verdana 12")
             for element in [self.error_title, self.error_info]:
                 element.pack()
-            print("Ошибка\nНеверная директория!\nЗапускайте из директории ./clicker_project")
+            print("Ошибка\nНеверная директория!\nЗапускайте из директории ./clicker_project/game")
 
     def change_balance(self, balance: float):
         self.balance += balance
